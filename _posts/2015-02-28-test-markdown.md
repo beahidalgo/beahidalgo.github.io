@@ -14,7 +14,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 _Here is some italics_
 
-6 \nless 3
+$6 \nless 3$
 
 ## Here is a secondary heading
 
