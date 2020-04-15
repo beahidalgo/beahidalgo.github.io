@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Teaching
-subtitle: Some courses I teach
+# subtitle: Some courses I teach
 ---
 
 University courses:
 
-- xxx
-- xxx
+- Applied Statistics in Psychology
+- Psychometrics
 
-Additionally:
+Tutoring:
 
-- xxx
-- xxx
+- Statistics
+- R programming
