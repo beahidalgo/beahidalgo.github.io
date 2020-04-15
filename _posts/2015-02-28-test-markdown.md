@@ -12,6 +12,10 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 **Here is some bold text**
 
+_Here is some italics_
+
+6 \nless 3
+
 ## Here is a secondary heading
 
 Here's a useless table:
