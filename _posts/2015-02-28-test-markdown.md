@@ -14,7 +14,9 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 _Here is some italics_
 
-$ \sum_{\forall i}{x_i^{2}} $
+$$ \sum_{\forall i}{x_i^{2}} $$
+
+
 
 ## Here is a secondary heading
 
