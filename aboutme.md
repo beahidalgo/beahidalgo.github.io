@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-image: /img/photocv.jpg
+image: /img/IMG2.jpg
 subtitle: Why you'd want to hire me
 ---
 
