@@ -6,8 +6,8 @@ title: Teaching
 
 University courses:
 
-- Applied Statistics in Psychology
-- Psychometrics
+- Applied Statistics in Psychology (1st year course)
+- Psychometrics (3rd year course)
 
 Tutoring:
 
