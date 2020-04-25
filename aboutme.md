@@ -10,5 +10,5 @@ I am a lecturer in _Applied Statistics_ and _Psychometrics_ at the School of Bio
 
 ### my research interests are:
 
-- Bayesian statistics.
-- Psychometric and statistical models.
+- Applied Bayesian statistics.
+- Statistical modeling in Psychology.
